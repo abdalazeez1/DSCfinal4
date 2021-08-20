@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "559339364498",
+    "project_id": "dsc-final-4",
+    "storage_bucket": "dsc-final-4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559339364498:android:683efcb8656d7d1527c64b",
+        "android_client_info": {
+          "package_name": "com.example.dsc_final4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559339364498-j15aui0dj00u8d23u6hdrepq7ibe8uml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDds_UqfG6Wq1c2KuT1ZNzsqCMclo014nc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559339364498-j15aui0dj00u8d23u6hdrepq7ibe8uml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
